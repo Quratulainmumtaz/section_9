@@ -5,3 +5,23 @@
     width: 80%;
     margin: auto;
 }
+.block ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+.block li{
+    display: inline-block;
+    margin: 20px;
+
+}
+.block a{
+    text-decoration: none;
+    color: black;
+}
+.block a:active,
+.block a:hover{
+    color: chocolate;
+}
